@@ -1,0 +1,20 @@
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Labor exchange.exe.config
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Labor exchange.exe
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Labor exchange.pdb
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.csprojAssemblyReference.cache
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.Form1.resources
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.Properties.Resources.resources
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.csproj.GenerateResource.cache
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.csproj.CoreCompileInputs.cache
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.exe
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.pdb
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.Form2.resources
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.Form3.resources
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.SearchPerson.resources
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor_exchange.SearchCompany.resources
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Syncfusion.Compression.Base.dll
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Syncfusion.Licensing.dll
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Syncfusion.Compression.Base.xml
+D:\VS_projects\Labor exchange\Labor exchange\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\VS_projects\Labor exchange\Labor exchange\obj\Debug\Labor exchange.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labor exchange", "Labor exchange\Labor exchange.csproj", "{61347A4E-ABF0-49CD-AC99-300A6CEA024D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61347A4E-ABF0-49CD-AC99-300A6CEA024D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61347A4E-ABF0-49CD-AC99-300A6CEA024D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61347A4E-ABF0-49CD-AC99-300A6CEA024D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61347A4E-ABF0-49CD-AC99-300A6CEA024D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03769A60-616F-4882-92C5-225E61E16226}
+	EndGlobalSection
+EndGlobal
